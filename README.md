@@ -1,2 +1,5 @@
 # Power-BI-HR-Attrition-Analysis
-Cleaned Data using Power BI Power Query. Used various Visuals. Used Dax Query to create new Column to create desired KPI.
+Data: This a .csv HR Data File of Total Employees of a Company and the Cleint ask is to know the detailed Analysis of Employees Attrition.
+Loaded and cleaned Data using Power BI Power Query. 
+Used various Visuals as shown. 
+Used Dax Query to create new Column for a desired KPI.
